@@ -1,0 +1,26 @@
+savefig.bbox : tight
+savefig.dpi : 200
+figure.dpi : 200
+lines.linewidth : 1.5
+font.family : serif
+font.sans-serif : Garamond
+font.size : 15
+axes.labelsize : 15
+xtick.direction : in 
+ytick.direction : in
+xtick.top : True
+ytick.right : True
+xtick.major.pad : 5
+xtick.minor.pad : 5
+ytick.major.pad : 5
+ytick.minor.pad : 5
+xtick.major.size : 5
+ytick.major.size : 5
+xtick.labelsize : 12
+ytick.labelsize : 12
+legend.fontsize : 15
+legend.frameon : True
+text.usetex : True
+frameon: True
+
+
